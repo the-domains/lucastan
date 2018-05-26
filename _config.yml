@@ -1,0 +1,33 @@
+name: lucastan
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.960479563800618
+color:
+  lightness: 0.5220442091864637
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  saturation: 0.21048926753236197
+  brandStrength: 0.8130190236989918
+  rhythmicContrast: 0.28972445737796937
+content_rating:
+  adult: false
+typography_spectrum: 0.3169479165226221
+opengraph: {}
