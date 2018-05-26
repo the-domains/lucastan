@@ -1,7 +1,9 @@
 name: lucastan
 analytics: {}
 github: true
-author: {}
+description: lifenas it is
+author:
+  name: lucas
 collections:
   - index:
       path: /
@@ -31,3 +33,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.3169479165226221
 opengraph: {}
+title: me i. i am lucas
